@@ -9,16 +9,16 @@
 }
 
 /*Importar tipografía de google fonts vía @import (sin etiquetas <style>)*/
-@import url('https://fonts.googleapis.com/css2?family=Arima&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 /*Esto me permite utilizar la tipografía en todo el contenido de body. Como standard vamos a usar la 100*/
 
 body {
     /*Declaración de tipografía*/
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
     /*Declaración de peso de Tipografía*/
     font-weight: 100;
     /*Declaración de color de fondo del body*/
-    background-color: rgb(100, 100, 100);
+    background-color: rgb(255, 0, 0);
     /*Declaración del color de la tipografía en el body*/
     color: rgb(206, 206, 206);
 }
